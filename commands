@@ -5,3 +5,5 @@ git commit: add an snapshot
 git commit -m "mi primer commit": add a commit 
 git checkout -- index.html: return to a previous commit 
 git diff index.html: see differences in a file in a previous state
+
+---- create file .gitignore to ignore files or folders
