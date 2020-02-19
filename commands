@@ -11,3 +11,4 @@ git diff index.html: see differences in a file in a previous state
 git branch: create branch
 git branch [name]: create a branch with a name
 git checkout [name]: change branch
+git clone https://.. : clone a remote repository 
