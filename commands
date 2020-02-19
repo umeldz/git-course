@@ -7,3 +7,7 @@ git checkout -- index.html: return to a previous commit
 git diff index.html: see differences in a file in a previous state
 
 ---- create file .gitignore to ignore files or folders
+
+git branch: create branch
+git branch [name]: create a branch with a name
+git checkout [name]: change branch
